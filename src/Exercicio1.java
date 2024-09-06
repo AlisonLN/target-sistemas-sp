@@ -4,6 +4,7 @@
 //        Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
 //        Imprimir(SOMA);
 //        Ao final do processamento, qual será o valor da variável SOMA?
+//       O VALOR DA SOMA SERA DE "91".
 public class Exercicio1 {
     public static void main(String[] args) {
 
